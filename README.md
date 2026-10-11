@@ -1,9 +1,7 @@
 # 🧠 Redes Neuronales III: Optimización y Evaluación de Modelos (MNIST)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LKQMvso1kJTglo2uXEtc0SZQ7hNAL5fI?usp=sharing)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 Este repositorio contiene la práctica de la asignatura **Redes Neuronales III**, enfocada en la implementación, optimización y evaluación de un Perceptrón Multicapa (MLP) utilizando **TensorFlow y Keras**. El objetivo principal es clasificar dígitos manuscritos del famoso conjunto de datos **MNIST**, aplicando técnicas avanzadas de Deep Learning para gestionar el *Tradeoff Bias-Variance*.
 
